@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hello, I'm Jarred. Data platforms, SQL lineage, open source." />
+  <img src="assets/header.svg" width="100%" alt="Hello, I'm Jarred. Metadata, data catalogs, SQL lineage." />
 </p>
 
 <p align="center">
@@ -9,11 +9,11 @@
 
 ### `01 / ABOUT`
 
-I build tools around **data platforms, metadata, and SQL lineage**.
+My focus is **metadata** — building data catalogs and tools for understanding data lineage.
 
 ```java
 var jarred = Map.of(
-    "focus",    "Data platforms & SQL understanding",
+    "focus",    "Metadata & data catalogs",
     "building", "LineSQL — JVM-native SQL lineage parser",
     "exploring", "Open data catalogs with Apache Gravitino",
     "toolbox",  "Java / SQL / ANTLR4"
@@ -39,4 +39,4 @@ var jarred = Map.of(
 
 ---
 
-<p align="center"><code>Understand the data. Build the tools. Keep shipping.</code></p>
+<p align="center"><code>Connect the metadata. Understand the data. Keep shipping.</code></p>
